@@ -1,19 +1,6 @@
-# Fashion-Recognition-AI-Gemini
-Feature that enable users to know the name and information details of the fashion items from photo
-shoe-recognition-project/
-├── frontend/
-│   ├── public/
-│   │   └── index.html
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── ImageUpload.js
-│   │   │   └── ResultDisplay.js
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── package.json
-│   └── README.md
-├── backend/
-│   ├── app.py
-│   ├── requirements.txt
-│   └── README.md
-└── README.md
+# Fashion Recognition AI using Gemini API
+
+This project uses React for the frontend and Flask for the backend to create a fashion recognition application powered by Google's Vision AI.
+
+## Setup
+Follow the instructions in the frontend and backend README files to set up and run the application.

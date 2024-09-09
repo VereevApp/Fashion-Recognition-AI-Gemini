@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vereev-ai-recognition",
+  "private_key_id": "8bd2bd4ba7ac0a5999ebad8d8fac5ff4420be5ee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCVJ8toGpoWJKyM\nHzan7VyEKcf4GacOyNwz7sBGDfHIjQlqb1thnLmwKIQ5q+aHdaj78lkgwymBs9m1\niCoqK96JsRDedngvV2H2FPKvqc8+zofMnrQyTC79rheJUV8xo4VI9ffl6TqVY1ls\nS8GbAD+RSzOU5qpe960UuJ+eZwSG6faicZZSPyn9fTpEfySeposbXH1FqbFXIP82\n5rFw/yYWHa4kxneOTugFWMR2HYfZEo4rxNiWMlm5bqwwT0InwZEJQ//TiXXK7LTI\n/RXNxvyZ2wxXkAifad5+N1EL7ThbpJ4PPtrclmIAk0BS0NncIT1Buc94uR4cxKRr\n8dB+9T7TAgMBAAECggEADbT71bP8ImTPETbHyGQ2cv7T8vzd2VdOxTGqVxsY88aM\n7aG7fXDwWjv0Ssh9WvLOdg4uGqX/aSf6AzC25JaQ0N6GH6uLcpj5K6rT0p4sVCfu\nsDiKyW8u3P6Osykt3QXwow/XmY1MEPEcWqjA61mj0y+yAdELfxwLuofCQ3BRfi8G\nEp+EEHpsFljTzPCh0eBJWvzI93m3I8AWuWPAx52l4Ea2DUZlHN/anXyDz0KEMDs6\n07M9foXm7m/36eKDRpfAUK08SFEEQeUjFj8kIIiEQTft0XfyMo+Y4yfLJ/KRyEze\nL5Vvjf4fwbxCJym1LaZi8ESKmWy/MfqeIEPIxqtCYQKBgQDPLNF5JXn6SR3jAtLy\nyAxu6d4Pel1BzQHJP7y7vIDg97NqBinxSt0br/0TjZd5QxPePNX6TEOSVI+jTztN\nFePgrIXFElgGo9u8HkVJUDKcParLDFWo1O4eW1P5l/q1VfpmIoqaiWOCXYazMX30\nmJRrmCGljiYz1r4iaeg0RzVPPwKBgQC4TpDPllzv+CxbCQlALwnZSpEFKVJGgFmY\nEDji6nUx/on2MT0KEDnhwZZZ3YsRXAqSggeVnQsq9Qq+jnTSZP4YvTG/pdIVMwWm\nvceCmbg30hBx3IYbG59AnUbSKjJeD8Dz5Uu5EQtpBcaejc4mEgjpaOTWEUD+Y/xq\nTwi3Qr4/bQKBgQCAHecsU9CqxqyExipNmQiXTmjUiYdCOdTw70l3j4rjlEqPNmCZ\npwI1LRAEF3uksaaHuHda4e6nf0OUalrxwKe7OPVAeaeV857fJpkSTVX+6OPFzUrr\nrUHT5AZ6Q1H28cR3hMTR7ERtSgkSp3iM2g5uuxWTm+RkClhqT7QZIDAHYQKBgQCJ\nPD8Jw32aVaG5e4X+28eqm6JWRIl145ZS6ylglZIEUvMpdUptFt3yovIwIg2uNGnO\n47GADvrE1sdUUsDb9MVbaG0FthQzItW/baqELbAFKI6EKd9VigDP3Qxh63eroHFd\nakwzFmT3o4xcfVyV7nHiUu+qEhjiE1NdWVI1GyaMFQKBgQCzdOTRtQcHbGa5iBSG\nn0PFm8regfdOuZ50SjayaHWDOgx2WqqhUHI1G4KSu/Zp3Nwxww2ied++AYicFqpi\nnMR2IhhDVE3ZwObSvbsBQLDGt2qH3fJ7EZCElYqydmPqcaHvYa3EpL6lH7E4yle5\nkYsvazDVON7KOo9J2cBjY1x32w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vereev-ai-recognition@vereev-ai-recognition.iam.gserviceaccount.com",
+  "client_id": "114957305973344781447",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vereev-ai-recognition%40vereev-ai-recognition.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
