@@ -1,5 +1,7 @@
 # Fashion Recognition AI using Gemini API
 
+# now i am making some changes
+
 This project uses React for the frontend and Flask for the backend to create a fashion recognition application powered by Google's Vision AI.
 
 ## Setup
